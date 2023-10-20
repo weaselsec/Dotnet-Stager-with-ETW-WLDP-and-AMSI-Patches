@@ -1,4 +1,4 @@
-
+//code modified from https://github.com/BishopFox/sliver/wiki/Stagers
 using System;
 using System.IO;
 using System.Net;
